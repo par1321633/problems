@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8
-__author__ = "Parkash Sharma"
-
 """
 Say you have an array for which the ith element is the price of a given stock on day i.
 
@@ -21,6 +17,11 @@ Output: 0
 Explanation: In this case, no transaction is done, i.e. max profit = 0.
 
 """
+
+#!/usr/bin/env python
+# -*- coding: utf-8
+__author__ = "Parkash Sharma"
+
 from typing import List
 
 
